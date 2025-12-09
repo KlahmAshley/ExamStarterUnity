@@ -73,6 +73,10 @@ IMAGES REFERENCED:
 ![41+AXidWIWL _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/02d3c16d-90d1-4483-85c0-ed9f4fa884ba)
 <img width="263" height="235" alt="Screenshot 2025-12-09 133921" src="https://github.com/user-attachments/assets/8b0c729a-12aa-4001-b5ec-4f8a0eb27b5a" />
 
+Build was made but my Github has an issue where it doesnt let me see it. This happened during my coyurse project, Tried placing in in assets but not showing up. unsure. But with no game play it still is visable as what I did. Need to figure out why my build doesnt show up. 
+
+
+
 
 
 
