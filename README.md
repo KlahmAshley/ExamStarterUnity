@@ -1,4 +1,4 @@
-For our Computer Graphics Exam I have been tasked with enhancing Wario  Land 3 with Shaders. 
+For our Computer Graphics Exam I have been tasked with enhancing Wario  Land 3 with Shaders.
 FINAL PRODUCT:
 
 <img width="433" height="244" alt="Screenshot 2025-12-09 135600" src="https://github.com/user-attachments/assets/af24c12a-7814-43db-9e28-750873f2c342" />
@@ -10,6 +10,11 @@ warehouse/building. Wario is a criminal and destructive, He is also fighting "ba
 
 <img width="329" height="290" alt="Screenshot 2025-12-09 140100" src="https://github.com/user-attachments/assets/f47ce832-0692-4b60-9ed8-04aab440a88a" />
 <img width="433" height="244" alt="Screenshot 2025-12-09 135600" src="https://github.com/user-attachments/assets/c2f7afdd-6eb7-4919-b8d5-ff803a45a05b" />
+
+
+![explainstencil](https://github.com/user-attachments/assets/be3cd795-abd6-42f3-af53-14ff12def059)
+How this stencil effect works is that they call certain layer of rendering which the part is on but the wall behind is not. Therefore it renders behind not the wall.
+
 
 2nd shader 
 For the second shader I included the vertex extrusion shader for polygon surface deformation. I did not have time to properly input coding, but my plan for this 
@@ -27,7 +32,12 @@ FiNAL VERSION:
 <img width="434" height="248" alt="Screenshot 2025-12-09 140721" src="https://github.com/user-attachments/assets/53663e67-ed3e-4870-ab97-1cf228a62662" />
 
 For the final version I modified the script so that it includes both the vertex extrusion and the toon shading the rest of him has! I thought it looked weird that when he expanded his shading changed, therefore modifying the scripts makes it look more uniform. 
-I have attached my code with starred changes:
+Here is the difference: 
+
+<img width="347" height="211" alt="Screenshot 2025-12-09 133034" src="https://github.com/user-attachments/assets/2cb0dd32-55f0-4dfc-b5d2-a8fe79cb6f97" />
+<img width="437" height="242" alt="Screenshot 2025-12-09 133651" src="https://github.com/user-attachments/assets/af5e91d9-d3e1-45b3-8497-2aac5cd0eb75" />
+
+I have attached my code with starred changes for this shader:
 
 ![Screenshot 2025-12-09 133724](https://github.com/user-attachments/assets/d1878841-8990-400d-a322-d267f9f94119)
 
@@ -62,3 +72,7 @@ I included additional shaders that are to enhance the scene overall.
 IMAGES REFERENCED: 
 ![41+AXidWIWL _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/02d3c16d-90d1-4483-85c0-ed9f4fa884ba)
 <img width="263" height="235" alt="Screenshot 2025-12-09 133921" src="https://github.com/user-attachments/assets/8b0c729a-12aa-4001-b5ec-4f8a0eb27b5a" />
+
+
+
+
