@@ -3,15 +3,14 @@ For our Computer Graphics Exam I have been tasked with enhancing Mario Land 3 wi
 1st shader
 For the first shader I included was a stencil shader. This stencil was very useful for this scene. I wanted to try and show a broken down 
 warehouse/building. The stencil shader allows me to do this without complicated geomtery in modelling. It enhances the scene with complex looking
-"Geomtry" When really its just covering up those pieces. I like how it looks broken donw without as much effort. 
+"Geomtry" When really its just covering up those pieces. I like how it looks broken down without as much effort. 
 <img width="329" height="290" alt="Screenshot 2025-12-09 140100" src="https://github.com/user-attachments/assets/f47ce832-0692-4b60-9ed8-04aab440a88a" />
 <img width="433" height="244" alt="Screenshot 2025-12-09 135600" src="https://github.com/user-attachments/assets/c2f7afdd-6eb7-4919-b8d5-ff803a45a05b" />
 
 2nd shader 
 For the second shader I included the vertex extrusion shader for polygon surface deformation. I did not have time to properly input coding but my plan for this 
 shader would be to increase warios midsection when he collects the donuts. Similarly to the orginal game when he bulks upo to twice his size when he eats a donut but I added
-a comical twist for a humor aspect as it is a game for all ages and Wario, although "evil" is often viewed in a comical way! * I include my early version of this idea
-+ my final version of this idea.
+a comical twist for a humor aspect as it is a game for all ages and Wario, although "evil" is often viewed in a comical way! * I include my early version of this idea and my final version of this idea.
 
 EARLY VERSION:
 <img width="379" height="203" alt="progress" src="https://github.com/user-attachments/assets/4007aec5-e103-4e88-86c5-3a97b74d3e6c" />
