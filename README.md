@@ -54,5 +54,4 @@ I included additional shaders that are to enhacne the scene overall.
 
 IMAGES REFERENCED: 
 ![41+AXidWIWL _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/02d3c16d-90d1-4483-85c0-ed9f4fa884ba)
-<img width="832" height="456" alt="MKW_Wario&#39;s_Gold_Mine_Course_Overview" src="https://github.com/user-attachments/assets/c9a73fa7-daf0-4c61-a757-36c43271b103" />
 <img width="263" height="235" alt="Screenshot 2025-12-09 133921" src="https://github.com/user-attachments/assets/8b0c729a-12aa-4001-b5ec-4f8a0eb27b5a" />
